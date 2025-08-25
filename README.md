@@ -19,6 +19,9 @@ This is a simple web application that generates random colors with each click. I
 - CSS
 - JavaScript
 
+## 🔗 Links  
+- **Live Demo:** https://prashasthaa.github.io/Random-color-generator/color.html
+- **GitHub Repo:** https://github.com/Prashasthaa/Random-color-generator
 
 
 
